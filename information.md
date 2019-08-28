@@ -4,7 +4,7 @@ Fill in your personal information and commit the changes with a meaningful commi
 
 * Name: Meiqing Zhang
 
-* USC email address:
+* USC email address: meiqingz@usc.edu
 
 * PhD program:
 
